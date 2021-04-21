@@ -1,0 +1,900 @@
+COUNT	philadelphia phillies
+COUNT	hurricane wilma
+COUNT	sarah fisher
+COUNT	+boulder +city +nevada
+COUNT	"ugly people"
+COUNT	+times +union
+COUNT	+seal +pictures
+COUNT	+mercedes +benz
+COUNT	car stereo
+COUNT	+omaha +symphony
+COUNT	+the +news +journal
+COUNT	elise neal
+COUNT	+interracial +love
+COUNT	canadian real estate
+COUNT	"personal loan"
+COUNT	barrett jackson
+COUNT	+jaguar +x +type
+COUNT	+personal +loan
+COUNT	+laborers +international +union +of +north +america
+COUNT	+fatherless +children
+COUNT	"tv party"
+COUNT	york photo
+COUNT	"sleep study"
+COUNT	italian translation
+COUNT	developmental delays
+COUNT	+too +faced
+COUNT	"eastern mennonite university"
+COUNT	+law +dictionary
+COUNT	"reading museum"
+COUNT	los angeles daily news
+COUNT	music stands
+COUNT	+health +literacy
+COUNT	+los +angeles +daily +news
+COUNT	"the news journal"
+COUNT	+montgomery +college
+COUNT	+national +security +cutter
+COUNT	freedom tower
+COUNT	"david thornton"
+COUNT	"mood swings"
+COUNT	san francisco
+COUNT	false prophets
+COUNT	"west palm beach florida"
+COUNT	+digital +scanning
+COUNT	"all funds"
+COUNT	+graduate +management +admission +test
+COUNT	central community college
+COUNT	+the +daily +breeze
+COUNT	civil war battlefields
+COUNT	"bismarck state college"
+COUNT	+child +support
+COUNT	+costume +designers
+COUNT	william wallace
+COUNT	calvin klein
+COUNT	"little shop of horrors"
+COUNT	"elizabeth vargas"
+COUNT	+most +improved +player
+COUNT	"naked news"
+COUNT	"boulder city nevada"
+COUNT	"kenosha wisconsin"
+COUNT	hot springs south dakota
+COUNT	"cartoon network"
+COUNT	vicenza italy
+COUNT	+camp +claiborne
+COUNT	+canary +bird
+COUNT	+shih +tzu
+COUNT	+xena +warrior +princess
+COUNT	+blue +ridge +parkway
+COUNT	"roundabout theatre"
+COUNT	+term +life +insurance
+COUNT	+david +thornton
+COUNT	"american south"
+COUNT	"the globe newspaper"
+COUNT	"battle of the bulge"
+COUNT	new york population
+COUNT	"heart disease"
+COUNT	griffith observatory
+COUNT	american south
+COUNT	john klein
+COUNT	+cherry +blossom
+COUNT	"world bank president"
+COUNT	child support
+COUNT	"big boss man"
+COUNT	"stone mountain"
+COUNT	reading museum
+COUNT	+ford +parts
+COUNT	cognitive impairment
+COUNT	new york times best sellers list
+COUNT	"care a lot"
+COUNT	"hotel del coronado"
+COUNT	consumer affairs
+COUNT	"good luck"
+COUNT	"new england aquarium"
+COUNT	+sore +muscles
+COUNT	+air +mattress
+COUNT	body painting
+COUNT	"the progressive"
+COUNT	+who +dares +wins
+COUNT	the progressive
+COUNT	"western herald"
+COUNT	kristanna loken
+COUNT	philadelphia phillies
+COUNT	hurricane wilma
+COUNT	sarah fisher
+COUNT	+boulder +city +nevada
+COUNT	"ugly people"
+COUNT	+times +union
+COUNT	+seal +pictures
+COUNT	+mercedes +benz
+COUNT	car stereo
+COUNT	+omaha +symphony
+COUNT	+the +news +journal
+COUNT	elise neal
+COUNT	+interracial +love
+COUNT	canadian real estate
+COUNT	"personal loan"
+COUNT	barrett jackson
+COUNT	+jaguar +x +type
+COUNT	+personal +loan
+COUNT	+laborers +international +union +of +north +america
+COUNT	+fatherless +children
+COUNT	"tv party"
+COUNT	york photo
+COUNT	"sleep study"
+COUNT	italian translation
+COUNT	developmental delays
+COUNT	+too +faced
+COUNT	"eastern mennonite university"
+COUNT	+law +dictionary
+COUNT	"reading museum"
+COUNT	los angeles daily news
+COUNT	music stands
+COUNT	+health +literacy
+COUNT	+los +angeles +daily +news
+COUNT	"the news journal"
+COUNT	+montgomery +college
+COUNT	+national +security +cutter
+COUNT	freedom tower
+COUNT	"david thornton"
+COUNT	"mood swings"
+COUNT	san francisco
+COUNT	false prophets
+COUNT	"west palm beach florida"
+COUNT	+digital +scanning
+COUNT	"all funds"
+COUNT	+graduate +management +admission +test
+COUNT	central community college
+COUNT	+the +daily +breeze
+COUNT	civil war battlefields
+COUNT	"bismarck state college"
+COUNT	+child +support
+COUNT	+costume +designers
+COUNT	william wallace
+COUNT	calvin klein
+COUNT	"little shop of horrors"
+COUNT	"elizabeth vargas"
+COUNT	+most +improved +player
+COUNT	"naked news"
+COUNT	"boulder city nevada"
+COUNT	"kenosha wisconsin"
+COUNT	hot springs south dakota
+COUNT	"cartoon network"
+COUNT	vicenza italy
+COUNT	+camp +claiborne
+COUNT	+canary +bird
+COUNT	+shih +tzu
+COUNT	+xena +warrior +princess
+COUNT	+blue +ridge +parkway
+COUNT	"roundabout theatre"
+COUNT	+term +life +insurance
+COUNT	+david +thornton
+COUNT	"american south"
+COUNT	"the globe newspaper"
+COUNT	"battle of the bulge"
+COUNT	new york population
+COUNT	"heart disease"
+COUNT	griffith observatory
+COUNT	american south
+COUNT	john klein
+COUNT	+cherry +blossom
+COUNT	"world bank president"
+COUNT	child support
+COUNT	"big boss man"
+COUNT	"stone mountain"
+COUNT	reading museum
+COUNT	+ford +parts
+COUNT	cognitive impairment
+COUNT	new york times best sellers list
+COUNT	"care a lot"
+COUNT	"hotel del coronado"
+COUNT	consumer affairs
+COUNT	"good luck"
+COUNT	"new england aquarium"
+COUNT	+sore +muscles
+COUNT	+air +mattress
+COUNT	body painting
+COUNT	"the progressive"
+COUNT	+who +dares +wins
+COUNT	the progressive
+COUNT	"western herald"
+COUNT	kristanna loken
+COUNT	philadelphia phillies
+COUNT	hurricane wilma
+COUNT	sarah fisher
+COUNT	+boulder +city +nevada
+COUNT	"ugly people"
+COUNT	+times +union
+COUNT	+seal +pictures
+COUNT	+mercedes +benz
+COUNT	car stereo
+COUNT	+omaha +symphony
+COUNT	+the +news +journal
+COUNT	elise neal
+COUNT	+interracial +love
+COUNT	canadian real estate
+COUNT	"personal loan"
+COUNT	barrett jackson
+COUNT	+jaguar +x +type
+COUNT	+personal +loan
+COUNT	+laborers +international +union +of +north +america
+COUNT	+fatherless +children
+COUNT	"tv party"
+COUNT	york photo
+COUNT	"sleep study"
+COUNT	italian translation
+COUNT	developmental delays
+COUNT	+too +faced
+COUNT	"eastern mennonite university"
+COUNT	+law +dictionary
+COUNT	"reading museum"
+COUNT	los angeles daily news
+COUNT	music stands
+COUNT	+health +literacy
+COUNT	+los +angeles +daily +news
+COUNT	"the news journal"
+COUNT	+montgomery +college
+COUNT	+national +security +cutter
+COUNT	freedom tower
+COUNT	"david thornton"
+COUNT	"mood swings"
+COUNT	san francisco
+COUNT	false prophets
+COUNT	"west palm beach florida"
+COUNT	+digital +scanning
+COUNT	"all funds"
+COUNT	+graduate +management +admission +test
+COUNT	central community college
+COUNT	+the +daily +breeze
+COUNT	civil war battlefields
+COUNT	"bismarck state college"
+COUNT	+child +support
+COUNT	+costume +designers
+COUNT	william wallace
+COUNT	calvin klein
+COUNT	"little shop of horrors"
+COUNT	"elizabeth vargas"
+COUNT	+most +improved +player
+COUNT	"naked news"
+COUNT	"boulder city nevada"
+COUNT	"kenosha wisconsin"
+COUNT	hot springs south dakota
+COUNT	"cartoon network"
+COUNT	vicenza italy
+COUNT	+camp +claiborne
+COUNT	+canary +bird
+COUNT	+shih +tzu
+COUNT	+xena +warrior +princess
+COUNT	+blue +ridge +parkway
+COUNT	"roundabout theatre"
+COUNT	+term +life +insurance
+COUNT	+david +thornton
+COUNT	"american south"
+COUNT	"the globe newspaper"
+COUNT	"battle of the bulge"
+COUNT	new york population
+COUNT	"heart disease"
+COUNT	griffith observatory
+COUNT	american south
+COUNT	john klein
+COUNT	+cherry +blossom
+COUNT	"world bank president"
+COUNT	child support
+COUNT	"big boss man"
+COUNT	"stone mountain"
+COUNT	reading museum
+COUNT	+ford +parts
+COUNT	cognitive impairment
+COUNT	new york times best sellers list
+COUNT	"care a lot"
+COUNT	"hotel del coronado"
+COUNT	consumer affairs
+COUNT	"good luck"
+COUNT	"new england aquarium"
+COUNT	+sore +muscles
+COUNT	+air +mattress
+COUNT	body painting
+COUNT	"the progressive"
+COUNT	+who +dares +wins
+COUNT	the progressive
+COUNT	"western herald"
+COUNT	kristanna loken
+COUNT	philadelphia phillies
+COUNT	hurricane wilma
+COUNT	sarah fisher
+COUNT	+boulder +city +nevada
+COUNT	"ugly people"
+COUNT	+times +union
+COUNT	+seal +pictures
+COUNT	+mercedes +benz
+COUNT	car stereo
+COUNT	+omaha +symphony
+COUNT	+the +news +journal
+COUNT	elise neal
+COUNT	+interracial +love
+COUNT	canadian real estate
+COUNT	"personal loan"
+COUNT	barrett jackson
+COUNT	+jaguar +x +type
+COUNT	+personal +loan
+COUNT	+laborers +international +union +of +north +america
+COUNT	+fatherless +children
+COUNT	"tv party"
+COUNT	york photo
+COUNT	"sleep study"
+COUNT	italian translation
+COUNT	developmental delays
+COUNT	+too +faced
+COUNT	"eastern mennonite university"
+COUNT	+law +dictionary
+COUNT	"reading museum"
+COUNT	los angeles daily news
+COUNT	music stands
+COUNT	+health +literacy
+COUNT	+los +angeles +daily +news
+COUNT	"the news journal"
+COUNT	+montgomery +college
+COUNT	+national +security +cutter
+COUNT	freedom tower
+COUNT	"david thornton"
+COUNT	"mood swings"
+COUNT	san francisco
+COUNT	false prophets
+COUNT	"west palm beach florida"
+COUNT	+digital +scanning
+COUNT	"all funds"
+COUNT	+graduate +management +admission +test
+COUNT	central community college
+COUNT	+the +daily +breeze
+COUNT	civil war battlefields
+COUNT	"bismarck state college"
+COUNT	+child +support
+COUNT	+costume +designers
+COUNT	william wallace
+COUNT	calvin klein
+COUNT	"little shop of horrors"
+COUNT	"elizabeth vargas"
+COUNT	+most +improved +player
+COUNT	"naked news"
+COUNT	"boulder city nevada"
+COUNT	"kenosha wisconsin"
+COUNT	hot springs south dakota
+COUNT	"cartoon network"
+COUNT	vicenza italy
+COUNT	+camp +claiborne
+COUNT	+canary +bird
+COUNT	+shih +tzu
+COUNT	+xena +warrior +princess
+COUNT	+blue +ridge +parkway
+COUNT	"roundabout theatre"
+COUNT	+term +life +insurance
+COUNT	+david +thornton
+COUNT	"american south"
+COUNT	"the globe newspaper"
+COUNT	"battle of the bulge"
+COUNT	new york population
+COUNT	"heart disease"
+COUNT	griffith observatory
+COUNT	american south
+COUNT	john klein
+COUNT	+cherry +blossom
+COUNT	"world bank president"
+COUNT	child support
+COUNT	"big boss man"
+COUNT	"stone mountain"
+COUNT	reading museum
+COUNT	+ford +parts
+COUNT	cognitive impairment
+COUNT	new york times best sellers list
+COUNT	"care a lot"
+COUNT	"hotel del coronado"
+COUNT	consumer affairs
+COUNT	"good luck"
+COUNT	"new england aquarium"
+COUNT	+sore +muscles
+COUNT	+air +mattress
+COUNT	body painting
+COUNT	"the progressive"
+COUNT	+who +dares +wins
+COUNT	the progressive
+COUNT	"western herald"
+COUNT	kristanna loken
+COUNT	philadelphia phillies
+COUNT	hurricane wilma
+COUNT	sarah fisher
+COUNT	+boulder +city +nevada
+COUNT	"ugly people"
+COUNT	+times +union
+COUNT	+seal +pictures
+COUNT	+mercedes +benz
+COUNT	car stereo
+COUNT	+omaha +symphony
+COUNT	+the +news +journal
+COUNT	elise neal
+COUNT	+interracial +love
+COUNT	canadian real estate
+COUNT	"personal loan"
+COUNT	barrett jackson
+COUNT	+jaguar +x +type
+COUNT	+personal +loan
+COUNT	+laborers +international +union +of +north +america
+COUNT	+fatherless +children
+COUNT	"tv party"
+COUNT	york photo
+COUNT	"sleep study"
+COUNT	italian translation
+COUNT	developmental delays
+COUNT	+too +faced
+COUNT	"eastern mennonite university"
+COUNT	+law +dictionary
+COUNT	"reading museum"
+COUNT	los angeles daily news
+COUNT	music stands
+COUNT	+health +literacy
+COUNT	+los +angeles +daily +news
+COUNT	"the news journal"
+COUNT	+montgomery +college
+COUNT	+national +security +cutter
+COUNT	freedom tower
+COUNT	"david thornton"
+COUNT	"mood swings"
+COUNT	san francisco
+COUNT	false prophets
+COUNT	"west palm beach florida"
+COUNT	+digital +scanning
+COUNT	"all funds"
+COUNT	+graduate +management +admission +test
+COUNT	central community college
+COUNT	+the +daily +breeze
+COUNT	civil war battlefields
+COUNT	"bismarck state college"
+COUNT	+child +support
+COUNT	+costume +designers
+COUNT	william wallace
+COUNT	calvin klein
+COUNT	"little shop of horrors"
+COUNT	"elizabeth vargas"
+COUNT	+most +improved +player
+COUNT	"naked news"
+COUNT	"boulder city nevada"
+COUNT	"kenosha wisconsin"
+COUNT	hot springs south dakota
+COUNT	"cartoon network"
+COUNT	vicenza italy
+COUNT	+camp +claiborne
+COUNT	+canary +bird
+COUNT	+shih +tzu
+COUNT	+xena +warrior +princess
+COUNT	+blue +ridge +parkway
+COUNT	"roundabout theatre"
+COUNT	+term +life +insurance
+COUNT	+david +thornton
+COUNT	"american south"
+COUNT	"the globe newspaper"
+COUNT	"battle of the bulge"
+COUNT	new york population
+COUNT	"heart disease"
+COUNT	griffith observatory
+COUNT	american south
+COUNT	john klein
+COUNT	+cherry +blossom
+COUNT	"world bank president"
+COUNT	child support
+COUNT	"big boss man"
+COUNT	"stone mountain"
+COUNT	reading museum
+COUNT	+ford +parts
+COUNT	cognitive impairment
+COUNT	new york times best sellers list
+COUNT	"care a lot"
+COUNT	"hotel del coronado"
+COUNT	consumer affairs
+COUNT	"good luck"
+COUNT	"new england aquarium"
+COUNT	+sore +muscles
+COUNT	+air +mattress
+COUNT	body painting
+COUNT	"the progressive"
+COUNT	+who +dares +wins
+COUNT	the progressive
+COUNT	"western herald"
+COUNT	kristanna loken
+COUNT	philadelphia phillies
+COUNT	hurricane wilma
+COUNT	sarah fisher
+COUNT	+boulder +city +nevada
+COUNT	"ugly people"
+COUNT	+times +union
+COUNT	+seal +pictures
+COUNT	+mercedes +benz
+COUNT	car stereo
+COUNT	+omaha +symphony
+COUNT	+the +news +journal
+COUNT	elise neal
+COUNT	+interracial +love
+COUNT	canadian real estate
+COUNT	"personal loan"
+COUNT	barrett jackson
+COUNT	+jaguar +x +type
+COUNT	+personal +loan
+COUNT	+laborers +international +union +of +north +america
+COUNT	+fatherless +children
+COUNT	"tv party"
+COUNT	york photo
+COUNT	"sleep study"
+COUNT	italian translation
+COUNT	developmental delays
+COUNT	+too +faced
+COUNT	"eastern mennonite university"
+COUNT	+law +dictionary
+COUNT	"reading museum"
+COUNT	los angeles daily news
+COUNT	music stands
+COUNT	+health +literacy
+COUNT	+los +angeles +daily +news
+COUNT	"the news journal"
+COUNT	+montgomery +college
+COUNT	+national +security +cutter
+COUNT	freedom tower
+COUNT	"david thornton"
+COUNT	"mood swings"
+COUNT	san francisco
+COUNT	false prophets
+COUNT	"west palm beach florida"
+COUNT	+digital +scanning
+COUNT	"all funds"
+COUNT	+graduate +management +admission +test
+COUNT	central community college
+COUNT	+the +daily +breeze
+COUNT	civil war battlefields
+COUNT	"bismarck state college"
+COUNT	+child +support
+COUNT	+costume +designers
+COUNT	william wallace
+COUNT	calvin klein
+COUNT	"little shop of horrors"
+COUNT	"elizabeth vargas"
+COUNT	+most +improved +player
+COUNT	"naked news"
+COUNT	"boulder city nevada"
+COUNT	"kenosha wisconsin"
+COUNT	hot springs south dakota
+COUNT	"cartoon network"
+COUNT	vicenza italy
+COUNT	+camp +claiborne
+COUNT	+canary +bird
+COUNT	+shih +tzu
+COUNT	+xena +warrior +princess
+COUNT	+blue +ridge +parkway
+COUNT	"roundabout theatre"
+COUNT	+term +life +insurance
+COUNT	+david +thornton
+COUNT	"american south"
+COUNT	"the globe newspaper"
+COUNT	"battle of the bulge"
+COUNT	new york population
+COUNT	"heart disease"
+COUNT	griffith observatory
+COUNT	american south
+COUNT	john klein
+COUNT	+cherry +blossom
+COUNT	"world bank president"
+COUNT	child support
+COUNT	"big boss man"
+COUNT	"stone mountain"
+COUNT	reading museum
+COUNT	+ford +parts
+COUNT	cognitive impairment
+COUNT	new york times best sellers list
+COUNT	"care a lot"
+COUNT	"hotel del coronado"
+COUNT	consumer affairs
+COUNT	"good luck"
+COUNT	"new england aquarium"
+COUNT	+sore +muscles
+COUNT	+air +mattress
+COUNT	body painting
+COUNT	"the progressive"
+COUNT	+who +dares +wins
+COUNT	the progressive
+COUNT	"western herald"
+COUNT	kristanna loken
+COUNT	philadelphia phillies
+COUNT	hurricane wilma
+COUNT	sarah fisher
+COUNT	+boulder +city +nevada
+COUNT	"ugly people"
+COUNT	+times +union
+COUNT	+seal +pictures
+COUNT	+mercedes +benz
+COUNT	car stereo
+COUNT	+omaha +symphony
+COUNT	+the +news +journal
+COUNT	elise neal
+COUNT	+interracial +love
+COUNT	canadian real estate
+COUNT	"personal loan"
+COUNT	barrett jackson
+COUNT	+jaguar +x +type
+COUNT	+personal +loan
+COUNT	+laborers +international +union +of +north +america
+COUNT	+fatherless +children
+COUNT	"tv party"
+COUNT	york photo
+COUNT	"sleep study"
+COUNT	italian translation
+COUNT	developmental delays
+COUNT	+too +faced
+COUNT	"eastern mennonite university"
+COUNT	+law +dictionary
+COUNT	"reading museum"
+COUNT	los angeles daily news
+COUNT	music stands
+COUNT	+health +literacy
+COUNT	+los +angeles +daily +news
+COUNT	"the news journal"
+COUNT	+montgomery +college
+COUNT	+national +security +cutter
+COUNT	freedom tower
+COUNT	"david thornton"
+COUNT	"mood swings"
+COUNT	san francisco
+COUNT	false prophets
+COUNT	"west palm beach florida"
+COUNT	+digital +scanning
+COUNT	"all funds"
+COUNT	+graduate +management +admission +test
+COUNT	central community college
+COUNT	+the +daily +breeze
+COUNT	civil war battlefields
+COUNT	"bismarck state college"
+COUNT	+child +support
+COUNT	+costume +designers
+COUNT	william wallace
+COUNT	calvin klein
+COUNT	"little shop of horrors"
+COUNT	"elizabeth vargas"
+COUNT	+most +improved +player
+COUNT	"naked news"
+COUNT	"boulder city nevada"
+COUNT	"kenosha wisconsin"
+COUNT	hot springs south dakota
+COUNT	"cartoon network"
+COUNT	vicenza italy
+COUNT	+camp +claiborne
+COUNT	+canary +bird
+COUNT	+shih +tzu
+COUNT	+xena +warrior +princess
+COUNT	+blue +ridge +parkway
+COUNT	"roundabout theatre"
+COUNT	+term +life +insurance
+COUNT	+david +thornton
+COUNT	"american south"
+COUNT	"the globe newspaper"
+COUNT	"battle of the bulge"
+COUNT	new york population
+COUNT	"heart disease"
+COUNT	griffith observatory
+COUNT	american south
+COUNT	john klein
+COUNT	+cherry +blossom
+COUNT	"world bank president"
+COUNT	child support
+COUNT	"big boss man"
+COUNT	"stone mountain"
+COUNT	reading museum
+COUNT	+ford +parts
+COUNT	cognitive impairment
+COUNT	new york times best sellers list
+COUNT	"care a lot"
+COUNT	"hotel del coronado"
+COUNT	consumer affairs
+COUNT	"good luck"
+COUNT	"new england aquarium"
+COUNT	+sore +muscles
+COUNT	+air +mattress
+COUNT	body painting
+COUNT	"the progressive"
+COUNT	+who +dares +wins
+COUNT	the progressive
+COUNT	"western herald"
+COUNT	kristanna loken
+COUNT	philadelphia phillies
+COUNT	hurricane wilma
+COUNT	sarah fisher
+COUNT	+boulder +city +nevada
+COUNT	"ugly people"
+COUNT	+times +union
+COUNT	+seal +pictures
+COUNT	+mercedes +benz
+COUNT	car stereo
+COUNT	+omaha +symphony
+COUNT	+the +news +journal
+COUNT	elise neal
+COUNT	+interracial +love
+COUNT	canadian real estate
+COUNT	"personal loan"
+COUNT	barrett jackson
+COUNT	+jaguar +x +type
+COUNT	+personal +loan
+COUNT	+laborers +international +union +of +north +america
+COUNT	+fatherless +children
+COUNT	"tv party"
+COUNT	york photo
+COUNT	"sleep study"
+COUNT	italian translation
+COUNT	developmental delays
+COUNT	+too +faced
+COUNT	"eastern mennonite university"
+COUNT	+law +dictionary
+COUNT	"reading museum"
+COUNT	los angeles daily news
+COUNT	music stands
+COUNT	+health +literacy
+COUNT	+los +angeles +daily +news
+COUNT	"the news journal"
+COUNT	+montgomery +college
+COUNT	+national +security +cutter
+COUNT	freedom tower
+COUNT	"david thornton"
+COUNT	"mood swings"
+COUNT	san francisco
+COUNT	false prophets
+COUNT	"west palm beach florida"
+COUNT	+digital +scanning
+COUNT	"all funds"
+COUNT	+graduate +management +admission +test
+COUNT	central community college
+COUNT	+the +daily +breeze
+COUNT	civil war battlefields
+COUNT	"bismarck state college"
+COUNT	+child +support
+COUNT	+costume +designers
+COUNT	william wallace
+COUNT	calvin klein
+COUNT	"little shop of horrors"
+COUNT	"elizabeth vargas"
+COUNT	+most +improved +player
+COUNT	"naked news"
+COUNT	"boulder city nevada"
+COUNT	"kenosha wisconsin"
+COUNT	hot springs south dakota
+COUNT	"cartoon network"
+COUNT	vicenza italy
+COUNT	+camp +claiborne
+COUNT	+canary +bird
+COUNT	+shih +tzu
+COUNT	+xena +warrior +princess
+COUNT	+blue +ridge +parkway
+COUNT	"roundabout theatre"
+COUNT	+term +life +insurance
+COUNT	+david +thornton
+COUNT	"american south"
+COUNT	"the globe newspaper"
+COUNT	"battle of the bulge"
+COUNT	new york population
+COUNT	"heart disease"
+COUNT	griffith observatory
+COUNT	american south
+COUNT	john klein
+COUNT	+cherry +blossom
+COUNT	"world bank president"
+COUNT	child support
+COUNT	"big boss man"
+COUNT	"stone mountain"
+COUNT	reading museum
+COUNT	+ford +parts
+COUNT	cognitive impairment
+COUNT	new york times best sellers list
+COUNT	"care a lot"
+COUNT	"hotel del coronado"
+COUNT	consumer affairs
+COUNT	"good luck"
+COUNT	"new england aquarium"
+COUNT	+sore +muscles
+COUNT	+air +mattress
+COUNT	body painting
+COUNT	"the progressive"
+COUNT	+who +dares +wins
+COUNT	the progressive
+COUNT	"western herald"
+COUNT	kristanna loken
+COUNT	philadelphia phillies
+COUNT	hurricane wilma
+COUNT	sarah fisher
+COUNT	+boulder +city +nevada
+COUNT	"ugly people"
+COUNT	+times +union
+COUNT	+seal +pictures
+COUNT	+mercedes +benz
+COUNT	car stereo
+COUNT	+omaha +symphony
+COUNT	+the +news +journal
+COUNT	elise neal
+COUNT	+interracial +love
+COUNT	canadian real estate
+COUNT	"personal loan"
+COUNT	barrett jackson
+COUNT	+jaguar +x +type
+COUNT	+personal +loan
+COUNT	+laborers +international +union +of +north +america
+COUNT	+fatherless +children
+COUNT	"tv party"
+COUNT	york photo
+COUNT	"sleep study"
+COUNT	italian translation
+COUNT	developmental delays
+COUNT	+too +faced
+COUNT	"eastern mennonite university"
+COUNT	+law +dictionary
+COUNT	"reading museum"
+COUNT	los angeles daily news
+COUNT	music stands
+COUNT	+health +literacy
+COUNT	+los +angeles +daily +news
+COUNT	"the news journal"
+COUNT	+montgomery +college
+COUNT	+national +security +cutter
+COUNT	freedom tower
+COUNT	"david thornton"
+COUNT	"mood swings"
+COUNT	san francisco
+COUNT	false prophets
+COUNT	"west palm beach florida"
+COUNT	+digital +scanning
+COUNT	"all funds"
+COUNT	+graduate +management +admission +test
+COUNT	central community college
+COUNT	+the +daily +breeze
+COUNT	civil war battlefields
+COUNT	"bismarck state college"
+COUNT	+child +support
+COUNT	+costume +designers
+COUNT	william wallace
+COUNT	calvin klein
+COUNT	"little shop of horrors"
+COUNT	"elizabeth vargas"
+COUNT	+most +improved +player
+COUNT	"naked news"
+COUNT	"boulder city nevada"
+COUNT	"kenosha wisconsin"
+COUNT	hot springs south dakota
+COUNT	"cartoon network"
+COUNT	vicenza italy
+COUNT	+camp +claiborne
+COUNT	+canary +bird
+COUNT	+shih +tzu
+COUNT	+xena +warrior +princess
+COUNT	+blue +ridge +parkway
+COUNT	"roundabout theatre"
+COUNT	+term +life +insurance
+COUNT	+david +thornton
+COUNT	"american south"
+COUNT	"the globe newspaper"
+COUNT	"battle of the bulge"
+COUNT	new york population
+COUNT	"heart disease"
+COUNT	griffith observatory
+COUNT	american south
+COUNT	john klein
+COUNT	+cherry +blossom
+COUNT	"world bank president"
+COUNT	child support
+COUNT	"big boss man"
+COUNT	"stone mountain"
+COUNT	reading museum
+COUNT	+ford +parts
+COUNT	cognitive impairment
+COUNT	new york times best sellers list
+COUNT	"care a lot"
+COUNT	"hotel del coronado"
+COUNT	consumer affairs
+COUNT	"good luck"
+COUNT	"new england aquarium"
+COUNT	+sore +muscles
+COUNT	+air +mattress
+COUNT	body painting
+COUNT	"the progressive"
+COUNT	+who +dares +wins
+COUNT	the progressive
+COUNT	"western herald"
+COUNT	kristanna loken

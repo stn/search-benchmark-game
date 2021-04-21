@@ -1,0 +1,315 @@
+COUNT	+boulder +city +nevada
+COUNT	+times +union
+COUNT	+seal +pictures
+COUNT	+mercedes +benz
+COUNT	+omaha +symphony
+COUNT	+the +news +journal
+COUNT	+interracial +love
+COUNT	+jaguar +x +type
+COUNT	+personal +loan
+COUNT	+laborers +international +union +of +north +america
+COUNT	+fatherless +children
+COUNT	+too +faced
+COUNT	+law +dictionary
+COUNT	+health +literacy
+COUNT	+los +angeles +daily +news
+COUNT	+montgomery +college
+COUNT	+national +security +cutter
+COUNT	+digital +scanning
+COUNT	+graduate +management +admission +test
+COUNT	+the +daily +breeze
+COUNT	+child +support
+COUNT	+costume +designers
+COUNT	+most +improved +player
+COUNT	+camp +claiborne
+COUNT	+canary +bird
+COUNT	+shih +tzu
+COUNT	+xena +warrior +princess
+COUNT	+blue +ridge +parkway
+COUNT	+term +life +insurance
+COUNT	+david +thornton
+COUNT	+cherry +blossom
+COUNT	+ford +parts
+COUNT	+sore +muscles
+COUNT	+air +mattress
+COUNT	+who +dares +wins
+COUNT	+boulder +city +nevada
+COUNT	+times +union
+COUNT	+seal +pictures
+COUNT	+mercedes +benz
+COUNT	+omaha +symphony
+COUNT	+the +news +journal
+COUNT	+interracial +love
+COUNT	+jaguar +x +type
+COUNT	+personal +loan
+COUNT	+laborers +international +union +of +north +america
+COUNT	+fatherless +children
+COUNT	+too +faced
+COUNT	+law +dictionary
+COUNT	+health +literacy
+COUNT	+los +angeles +daily +news
+COUNT	+montgomery +college
+COUNT	+national +security +cutter
+COUNT	+digital +scanning
+COUNT	+graduate +management +admission +test
+COUNT	+the +daily +breeze
+COUNT	+child +support
+COUNT	+costume +designers
+COUNT	+most +improved +player
+COUNT	+camp +claiborne
+COUNT	+canary +bird
+COUNT	+shih +tzu
+COUNT	+xena +warrior +princess
+COUNT	+blue +ridge +parkway
+COUNT	+term +life +insurance
+COUNT	+david +thornton
+COUNT	+cherry +blossom
+COUNT	+ford +parts
+COUNT	+sore +muscles
+COUNT	+air +mattress
+COUNT	+who +dares +wins
+COUNT	+boulder +city +nevada
+COUNT	+times +union
+COUNT	+seal +pictures
+COUNT	+mercedes +benz
+COUNT	+omaha +symphony
+COUNT	+the +news +journal
+COUNT	+interracial +love
+COUNT	+jaguar +x +type
+COUNT	+personal +loan
+COUNT	+laborers +international +union +of +north +america
+COUNT	+fatherless +children
+COUNT	+too +faced
+COUNT	+law +dictionary
+COUNT	+health +literacy
+COUNT	+los +angeles +daily +news
+COUNT	+montgomery +college
+COUNT	+national +security +cutter
+COUNT	+digital +scanning
+COUNT	+graduate +management +admission +test
+COUNT	+the +daily +breeze
+COUNT	+child +support
+COUNT	+costume +designers
+COUNT	+most +improved +player
+COUNT	+camp +claiborne
+COUNT	+canary +bird
+COUNT	+shih +tzu
+COUNT	+xena +warrior +princess
+COUNT	+blue +ridge +parkway
+COUNT	+term +life +insurance
+COUNT	+david +thornton
+COUNT	+cherry +blossom
+COUNT	+ford +parts
+COUNT	+sore +muscles
+COUNT	+air +mattress
+COUNT	+who +dares +wins
+COUNT	+boulder +city +nevada
+COUNT	+times +union
+COUNT	+seal +pictures
+COUNT	+mercedes +benz
+COUNT	+omaha +symphony
+COUNT	+the +news +journal
+COUNT	+interracial +love
+COUNT	+jaguar +x +type
+COUNT	+personal +loan
+COUNT	+laborers +international +union +of +north +america
+COUNT	+fatherless +children
+COUNT	+too +faced
+COUNT	+law +dictionary
+COUNT	+health +literacy
+COUNT	+los +angeles +daily +news
+COUNT	+montgomery +college
+COUNT	+national +security +cutter
+COUNT	+digital +scanning
+COUNT	+graduate +management +admission +test
+COUNT	+the +daily +breeze
+COUNT	+child +support
+COUNT	+costume +designers
+COUNT	+most +improved +player
+COUNT	+camp +claiborne
+COUNT	+canary +bird
+COUNT	+shih +tzu
+COUNT	+xena +warrior +princess
+COUNT	+blue +ridge +parkway
+COUNT	+term +life +insurance
+COUNT	+david +thornton
+COUNT	+cherry +blossom
+COUNT	+ford +parts
+COUNT	+sore +muscles
+COUNT	+air +mattress
+COUNT	+who +dares +wins
+COUNT	+boulder +city +nevada
+COUNT	+times +union
+COUNT	+seal +pictures
+COUNT	+mercedes +benz
+COUNT	+omaha +symphony
+COUNT	+the +news +journal
+COUNT	+interracial +love
+COUNT	+jaguar +x +type
+COUNT	+personal +loan
+COUNT	+laborers +international +union +of +north +america
+COUNT	+fatherless +children
+COUNT	+too +faced
+COUNT	+law +dictionary
+COUNT	+health +literacy
+COUNT	+los +angeles +daily +news
+COUNT	+montgomery +college
+COUNT	+national +security +cutter
+COUNT	+digital +scanning
+COUNT	+graduate +management +admission +test
+COUNT	+the +daily +breeze
+COUNT	+child +support
+COUNT	+costume +designers
+COUNT	+most +improved +player
+COUNT	+camp +claiborne
+COUNT	+canary +bird
+COUNT	+shih +tzu
+COUNT	+xena +warrior +princess
+COUNT	+blue +ridge +parkway
+COUNT	+term +life +insurance
+COUNT	+david +thornton
+COUNT	+cherry +blossom
+COUNT	+ford +parts
+COUNT	+sore +muscles
+COUNT	+air +mattress
+COUNT	+who +dares +wins
+COUNT	+boulder +city +nevada
+COUNT	+times +union
+COUNT	+seal +pictures
+COUNT	+mercedes +benz
+COUNT	+omaha +symphony
+COUNT	+the +news +journal
+COUNT	+interracial +love
+COUNT	+jaguar +x +type
+COUNT	+personal +loan
+COUNT	+laborers +international +union +of +north +america
+COUNT	+fatherless +children
+COUNT	+too +faced
+COUNT	+law +dictionary
+COUNT	+health +literacy
+COUNT	+los +angeles +daily +news
+COUNT	+montgomery +college
+COUNT	+national +security +cutter
+COUNT	+digital +scanning
+COUNT	+graduate +management +admission +test
+COUNT	+the +daily +breeze
+COUNT	+child +support
+COUNT	+costume +designers
+COUNT	+most +improved +player
+COUNT	+camp +claiborne
+COUNT	+canary +bird
+COUNT	+shih +tzu
+COUNT	+xena +warrior +princess
+COUNT	+blue +ridge +parkway
+COUNT	+term +life +insurance
+COUNT	+david +thornton
+COUNT	+cherry +blossom
+COUNT	+ford +parts
+COUNT	+sore +muscles
+COUNT	+air +mattress
+COUNT	+who +dares +wins
+COUNT	+boulder +city +nevada
+COUNT	+times +union
+COUNT	+seal +pictures
+COUNT	+mercedes +benz
+COUNT	+omaha +symphony
+COUNT	+the +news +journal
+COUNT	+interracial +love
+COUNT	+jaguar +x +type
+COUNT	+personal +loan
+COUNT	+laborers +international +union +of +north +america
+COUNT	+fatherless +children
+COUNT	+too +faced
+COUNT	+law +dictionary
+COUNT	+health +literacy
+COUNT	+los +angeles +daily +news
+COUNT	+montgomery +college
+COUNT	+national +security +cutter
+COUNT	+digital +scanning
+COUNT	+graduate +management +admission +test
+COUNT	+the +daily +breeze
+COUNT	+child +support
+COUNT	+costume +designers
+COUNT	+most +improved +player
+COUNT	+camp +claiborne
+COUNT	+canary +bird
+COUNT	+shih +tzu
+COUNT	+xena +warrior +princess
+COUNT	+blue +ridge +parkway
+COUNT	+term +life +insurance
+COUNT	+david +thornton
+COUNT	+cherry +blossom
+COUNT	+ford +parts
+COUNT	+sore +muscles
+COUNT	+air +mattress
+COUNT	+who +dares +wins
+COUNT	+boulder +city +nevada
+COUNT	+times +union
+COUNT	+seal +pictures
+COUNT	+mercedes +benz
+COUNT	+omaha +symphony
+COUNT	+the +news +journal
+COUNT	+interracial +love
+COUNT	+jaguar +x +type
+COUNT	+personal +loan
+COUNT	+laborers +international +union +of +north +america
+COUNT	+fatherless +children
+COUNT	+too +faced
+COUNT	+law +dictionary
+COUNT	+health +literacy
+COUNT	+los +angeles +daily +news
+COUNT	+montgomery +college
+COUNT	+national +security +cutter
+COUNT	+digital +scanning
+COUNT	+graduate +management +admission +test
+COUNT	+the +daily +breeze
+COUNT	+child +support
+COUNT	+costume +designers
+COUNT	+most +improved +player
+COUNT	+camp +claiborne
+COUNT	+canary +bird
+COUNT	+shih +tzu
+COUNT	+xena +warrior +princess
+COUNT	+blue +ridge +parkway
+COUNT	+term +life +insurance
+COUNT	+david +thornton
+COUNT	+cherry +blossom
+COUNT	+ford +parts
+COUNT	+sore +muscles
+COUNT	+air +mattress
+COUNT	+who +dares +wins
+COUNT	+boulder +city +nevada
+COUNT	+times +union
+COUNT	+seal +pictures
+COUNT	+mercedes +benz
+COUNT	+omaha +symphony
+COUNT	+the +news +journal
+COUNT	+interracial +love
+COUNT	+jaguar +x +type
+COUNT	+personal +loan
+COUNT	+laborers +international +union +of +north +america
+COUNT	+fatherless +children
+COUNT	+too +faced
+COUNT	+law +dictionary
+COUNT	+health +literacy
+COUNT	+los +angeles +daily +news
+COUNT	+montgomery +college
+COUNT	+national +security +cutter
+COUNT	+digital +scanning
+COUNT	+graduate +management +admission +test
+COUNT	+the +daily +breeze
+COUNT	+child +support
+COUNT	+costume +designers
+COUNT	+most +improved +player
+COUNT	+camp +claiborne
+COUNT	+canary +bird
+COUNT	+shih +tzu
+COUNT	+xena +warrior +princess
+COUNT	+blue +ridge +parkway
+COUNT	+term +life +insurance
+COUNT	+david +thornton
+COUNT	+cherry +blossom
+COUNT	+ford +parts
+COUNT	+sore +muscles
+COUNT	+air +mattress
+COUNT	+who +dares +wins
