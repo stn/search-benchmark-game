@@ -5,7 +5,8 @@ WIKI_SRC = "https://www.dropbox.com/s/wwnfnu441w1ec9p/wiki-articles.json.bz2"
 
 COMMANDS ?=  TOP_10 TOP_10_COUNT COUNT
 
-ENGINES ?= tantivy-0.16 lucene-8.10.1 pisa-0.8.2 bleve-0.8.0-scorch rucene-0.1 
+#ENGINES ?= tantivy-0.16 lucene-8.10.1 pisa-0.8.2 bleve-0.8.0-scorch rucene-0.1 
+ENGINES ?= pysearchlite-latest lucene-8.10.1
 PORT ?= 8080
 
 help:
