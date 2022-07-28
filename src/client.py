@@ -52,10 +52,11 @@ class Query(object):
 def read_queries(query_path):
     for q in open(query_path):
         c = json.loads(q)
-        yield Query(c["query"], c["tags"])
+        if "intersection" in c["tags"]:
+            yield Query(c["query"], c["tags"])
 
 WARMUP_ITER = 1
-NUM_ITER = 3
+NUM_ITER = 1
 
 
 if __name__ == "__main__":
@@ -87,7 +88,7 @@ if __name__ == "__main__":
             random.seed(2)
             random.shuffle(queries_shuffled)
             for i in range(WARMUP_ITER):
-                for _ in drive(queries_shuffled, search_client, command):
+                for _ in drive(queries_shuffled[:1], search_client, command):
                     pass
             for i in range(NUM_ITER):
                 print("- Run #%s of %s" % (i + 1, NUM_ITER))
